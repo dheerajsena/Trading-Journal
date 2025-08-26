@@ -12,7 +12,7 @@ import plotly.express as px
 from utils.storage import Storage, ensure_settings
 from utils.reporting import (
     compute_closed_pnl, compute_open_pnl,
-    monthly_summary, currency_totals, best_trades, goal_progress, days_held_col, roi_col
+    currency_totals, best_trades, goal_progress, days_held_col, roi_col
 )
 from utils.llm import get_trade_insights
 from utils.ui import (
