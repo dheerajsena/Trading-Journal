@@ -256,4 +256,4 @@ elif page == "Settings":
 
 # -------------------- Footer --------------------
 st.markdown("---")
-st.caption("Built with ❤️ in Streamlit • SQLite/CSV storage • Optional OpenAI for insights")
+st.caption("Built by Dheeraj Sena")
