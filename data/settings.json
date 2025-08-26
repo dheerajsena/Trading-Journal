@@ -1,0 +1,13 @@
+{
+  "base_currency": "AUD",
+  "fx_to_base": {
+    "AUD": 1.0,
+    "USD": 1.55,
+    "INR": 0.0185
+  },
+  "goals": {
+    "AUD": 500,
+    "USD": 0,
+    "INR": 0
+  }
+}

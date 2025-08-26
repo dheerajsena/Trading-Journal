@@ -1,0 +1,9 @@
+streamlit>=1.36.0
+pandas>=2.2.2
+numpy>=1.26.4
+yfinance>=0.2.40
+plotly>=5.22.0
+PyYAML>=6.0.1
+python-dotenv>=1.0.1
+openai>=1.37.0
+PyGithub>=2.3.0
